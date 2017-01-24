@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/JunctionMaker/v14
+/_ReSharper.JunctionMaker
+/_UpgradeReport_Files
+/JunctionMaker/bin/Debug
+/JunctionMaker/obj/Debug
